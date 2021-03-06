@@ -21,7 +21,10 @@ end
   ```
 
   After run for generate an identicon icon:
+  ```elixir
    Identicon.main('test')
+  ```
+  
   And in your directory root will create an image.
 
 
