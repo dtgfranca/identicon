@@ -27,7 +27,7 @@ end
   
   And in your directory root will create an image.
 ## Example
-![](identicon.gif)
+![](https://diegofranca.dev/wp-content/uploads/2021/03/identicon.gif)
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
