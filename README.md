@@ -16,8 +16,9 @@ end
 ```
 ## Run
   Open terminal and run this code:
-  
-  iex -S mix
+  ```shell
+      iex -S mix
+  ```
 
   After run for generate an identicon icon:
    Identicon.main('test')
